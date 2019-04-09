@@ -1,0 +1,12 @@
+{
+    "catalog_product_modifications": {
+        "column": {
+            "log_id": true,
+            "date": true,
+            "sku": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
